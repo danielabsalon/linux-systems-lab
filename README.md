@@ -3,8 +3,7 @@ Hands-on Linux systems administration practice focused on troubleshooting, autom
 
 # Linux Systems Administration Lab
 
-This repository documents hands-on Linux systems administration practice focused on
-operating system inspection, troubleshooting, permissions, logging, and basic automation.
+This repository documents hands-on Linux systems administration practice focused on operating system inspection, troubleshooting, permissions, logging, and basic automation.
 
 The goal of this lab is to demonstrate systems-level thinking, safe operational practices, and repeatable tooling rather than production ownership.
 
@@ -25,4 +24,4 @@ The goal of this lab is to demonstrate systems-level thinking, safe operational 
 - `notes/` — Documentation of concepts practiced and troubleshooting approaches
 
 ## Notes
-This lab reflects ongoing learning and practice alongside professional systems engineering                                  experience in production environments.
+This lab reflects ongoing learning and practice alongside professional systems engineering experience in production environments.
